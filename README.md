@@ -1,5 +1,5 @@
 # Suggested Projects for the LearnDev Project
-Following you find a list of projects that were suggested on Dicord, if available a short discription and the user that suggested it.
+Following you find a list of projects that were suggested on Discord, if available a short discription and the user that suggested it.
 
 ## Table of Content
 <!-- TOC -->
