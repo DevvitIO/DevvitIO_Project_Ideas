@@ -68,3 +68,5 @@ Since this is a big and complex project this description doesn't include a lot o
 
 *suggested by KenavR*
 
+### Real Time Multiplayer Hang-man Game
+*suggested by Rico*
