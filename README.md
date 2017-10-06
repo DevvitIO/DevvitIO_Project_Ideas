@@ -15,7 +15,7 @@ Following you find a list of projects that were suggested on Dicord, if availabl
         - [Dynamic Landing Page with Admin Panel](#dynamic-landing-page-with-admin-panel)
         - [Reddit meets Discord](#reddit-meets-discord)
         - [Fact Checker](#fact-checker)
-        - [Compatitive Gaming Manager Game](#compatitive-gaming-manager-game)
+        - [Competitive Gaming Manager Game](#competitive-gaming-manager-game)
 
 <!-- /TOC -->
 
@@ -46,7 +46,7 @@ Change the text, design and structure of a page from an admin panel (one page CM
 ### Reddit meets Discord
 A chat platform based on reddit and its subreddits. Every subreddit has its own channel, accessible using /r/subreddit like on reddit itself.
 
-Similar to discord, [gitter](https://gitter.im), etc. on the leftyou find a list of channels (my channels, popular channels, …), in the middle the chat and to the right a list of topics of the subreddit or a userlist (maybe tabs).
+Similar to discord, [gitter](https://gitter.im), etc. on the left you find a list of channels (my channels, popular channels, …), in the middle the chat and to the right a list of topics of the subreddit or a userlist (maybe tabs).
 
 What differentiates this chat from the other platforms is its reddit integration. You can reference topics, comments,..., see karma, write PMs, use the same moderation and style settings as the subreddit and more.
 
@@ -61,7 +61,7 @@ The ecosystem around it, is very similar to SO, upvotes/downvotes, users earn re
 
 *suggested by KenavR*
 
-### Compatitive Gaming Manager Game
+### Competitive Gaming Manager Game
 Browser manager game similar to games like [Football Manager 2017](http://www.footballmanager.com/games/football-manager-2017) (Screenshots on the page) for the competitive gaming enivronment (dota, CS, league, w/e)
 
 Since this is a big and complex project this description doesn't include a lot of details, but there already is a collection of ideas.
