@@ -17,6 +17,7 @@ Following you find a list of projects that were suggested on [Discord](https://d
         - [Fact Checker](#fact-checker)
         - [Competitive Gaming Manager Game](#competitive-gaming-manager-game)
         - [Real Time Multiplayer Hang-man Game](#real-time-multiplayer-hang-man-game)
+        - [Discord Bot](#discord-bot)
 
 <!-- /TOC -->
 
@@ -37,6 +38,7 @@ A user logs in and can save all open tabs and name it. Group things. Then launch
 *suggested by clvlndpete*
 
 ### eBook Reader / eBook Manager App
+Build with [Electron](https://electron.atom.io/)
 *suggested by Lamp*
 
 ### Dynamic Landing Page with Admin Panel
@@ -71,3 +73,8 @@ Since this is a big and complex project this description doesn't include a lot o
 
 ### Real Time Multiplayer Hang-man Game
 *suggested by Rico*
+
+### Discord Bot
+A Discord bot for the server that announces new pull-requests / issue reports to the projects we make (Node.JS)
+
+*suggested by Lamp*
