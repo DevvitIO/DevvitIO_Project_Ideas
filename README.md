@@ -31,7 +31,7 @@ To add a new project to the list, please either create a [Pull Request](https://
 *suggested by KT*
 
 ### Webapp for BrowserTab Management
-So u log in and you can save a all open tabs and name it.  Group things. Then launch a new window with a certain group of those saved tabs.
+A user logs in and can save all open tabs and name it. Group things. Then launch a new window with a certain group of those saved tabs.
 
 *suggested by clvlndpete*
 
@@ -39,7 +39,7 @@ So u log in and you can save a all open tabs and name it.  Group things. Then la
 *suggested by Lamp*
 
 ### Dynamic Landing Page with Admin Panel
-Change the text, design and structure of a page from an admin panel (one page CMS). After that the project can be extended into a full CMS system.
+Change the text, design and structure of a page from an admin panel (one page CMS). After that the project can be extended into a full CMS.
 
 *suggested by hotborsh*
 
