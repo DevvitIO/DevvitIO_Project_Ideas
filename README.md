@@ -16,6 +16,7 @@ Following you find a list of projects that were suggested on [Discord](https://d
         - [Reddit meets Discord](#reddit-meets-discord)
         - [Fact Checker](#fact-checker)
         - [Competitive Gaming Manager Game](#competitive-gaming-manager-game)
+        - [Real Time Multiplayer Hang-man Game](#real-time-multiplayer-hang-man-game)
 
 <!-- /TOC -->
 
