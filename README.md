@@ -78,3 +78,10 @@ Since this is a big and complex project this description doesn't include a lot o
 A Discord bot for the server that announces new pull-requests / issue reports to the projects we make (Node.JS)
 
 *suggested by Lamp*
+
+### Checklist App
+A checklist (todo list) app, that let's a user create a checklist for the day.
+
+User can review his old checklists by day, create checklist templates and create checklist for the future.
+
+*suggested by hotborsh*
