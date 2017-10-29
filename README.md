@@ -16,7 +16,6 @@ Following you find a list of projects that were suggested on [Discord](https://d
         - [Dynamic Landing Page with Admin Panel](#dynamic-landing-page-with-admin-panel)
         - [Reddit meets Discord](#reddit-meets-discord)
         - [Fact Checker](#fact-checker)
-        - [Competitive Gaming Manager Game](#competitive-gaming-manager-game)
         - [Real Time Multiplayer Hang-man Game](#real-time-multiplayer-hang-man-game)
         - [Discord Bot](#discord-bot)
         - [Checklist App](#checklist-app)
@@ -70,13 +69,6 @@ What differentiates this chat from the other platforms is its reddit integration
 “Fact Checker” is a platform similar to StackOverflow, where people can provide a statement (video clip, news article, political statement,...) they want to get fact checked. Another user can fact check that statement and is required to provide proper sourcing to validate or discredit the statement. Upvote/Downvotes, credibility of sources and other factors define a score which tells the users if the statement is more likely to be true or false.
 
 The ecosystem around it, is very similar to SO, upvotes/downvotes, users earn reputation (imaginary points), there is a distinction between comments and “answers”, entries are labeled in multiple categories like “subjects”, “source of the statement”, … to enable an easy search.
-
-*suggested by KenavR*
-
-### Competitive Gaming Manager Game
-Browser manager game similar to games like [Football Manager 2017](http://www.footballmanager.com/games/football-manager-2017) (Screenshots on the page) for the competitive gaming enivronment (dota, CS, league, w/e)
-
-Since this is a big and complex project this description doesn't include a lot of details, but there already is a collection of ideas.
 
 *suggested by KenavR*
 
